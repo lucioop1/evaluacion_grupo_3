@@ -1,0 +1,1 @@
+1) El git clone es para descargar el archivo del proyecto de la nube, asi poder modificarlo y git pull es para sincronizar los cambios nuevos que aparecen en el proyecto
