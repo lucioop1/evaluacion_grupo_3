@@ -1,2 +1,3 @@
 Ingrid Nahir Funes Pino.
-A lo largo de estas clases aprendimos a utilizar GitHub, aprendimos sus comandos y que es una plataforma muy util para poder trabajar en equipo y poder tener un seguimiento de lo que vamos haciendo, ya que podemos volver a modificaciones anteriores de nuestro codigo gracias a las ramas que se generan.
+A lo largo de estas clases aprendimos a utilizar GitHub, aprendimos sus comandos y que es una plataforma muy util para poder trabajar en equipo y poder tener un seguimiento de lo que vamos haciendo, 
+ya que podemos volver a modificaciones anteriores de nuestro codigo gracias a las ramas que se generan.
