@@ -1,0 +1,3 @@
+1) El git clone es para descargar el archivo del proyecto de la nube, asi poder modificarlo y git pull es para sincronizar los cambios nuevos que aparecen en el proyecto
+2- el commit sirve para guardar los cambios en tu proyecto con una nota o mensaje que explique qué hiciste.
+5- reforzamos lo aprendido en clase, los comandos, reforzamos la comunicacion, aprendimos a resolver problemas entre todos, etc
